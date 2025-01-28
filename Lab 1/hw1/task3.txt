@@ -1,0 +1,10 @@
+# Write your answers to task3 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.
+2.
+3.
+4.
+5.
+6.
